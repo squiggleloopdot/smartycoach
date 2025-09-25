@@ -9,4 +9,4 @@ layout: "home"
 
 ## Working Harder at Training Smarter
 
-Join our waitlist and be the first to experience adaptive training plans powered by your data.
+Coming soon with free training plans!  After that, everything from simple personalized training plans to full on coaching.
